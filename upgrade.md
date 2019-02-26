@@ -382,7 +382,7 @@ The `send`, `sendNow`, `queue`, `later` and `fill` methods of the `Illuminate\Ma
 
 **Likelihood Of Impact: Medium**
 
-Laravel 5.8 provides support for the `~4.0` release of the Pheanstalk queue library. If you are using Pheanstalk library in your application, please upgrade your library to the `~4.0` release via Composer.
+Laravel 5.8 provides support for the `^4.0` release of the Pheanstalk queue library. If you are using Pheanstalk library in your application, please upgrade your library to the `^4.0` release via Composer.
 
 #### The `Job` Contract
 
